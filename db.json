@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "email": "anton@mail.ru",
+      "password": "$2a$10$XwUzR7rNnEVPkWU7ma9UO.EvtnAjhII5nJaYCrmXU8/BANWn6V81W",
+      "fullName": "Антон",
+      "phone": "+71234568797",
+      "coursesValue": "5",
+      "id": 1
+    },
+    {
+      "email": "sergey@mail.ru",
+      "password": "$2a$10$YMCxS6IX4sTxMWL78Lajb.kr3gom8BoSnXnE1xpwT9LCzTmRXflUW",
+      "fullName": "Сергей",
+      "phone": "+72223544865",
+      "id": 2
+    },
+    {
+      "email": "anto@mail.ru",
+      "password": "$2a$10$di/6DJZUY9mM97ptm/ynhubMCMsI0ImNWtGMx7WEupqE3WQTvILfO",
+      "fullName": "awawdw",
+      "phone": "+72132312312",
+      "id": 3
+    },
+    {
+      "email": "antonn@mail.ru",
+      "password": "$2a$10$QanHO2Baz7nM8lGcAF6Ixe8K3p9EG2vCSxsLoXEAhOzzWpvI8WQqO",
+      "fullName": "awdwad",
+      "phone": "+71234567897",
+      "id": 4
+    }
+  ]
+}

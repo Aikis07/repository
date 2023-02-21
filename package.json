@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "json:server": "json-server db.json -m ./node_modules/json-server-auth -r routes.json"
   },
   "dependencies": {
     "core-js": "^3.8.3",
@@ -24,10 +25,25 @@
     "autoprefixer": "^10.4.13",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0",
     "postcss": "^8.4.21",
     "sass": "^1.32.7",
     "sass-loader": "^12.0.0",
     "tailwindcss": "^3.2.7",
-    "vue-template-compiler": "^2.6.14"
-  }
+    "vue-svg-loader": "^0.16.0",
+    "vue-template-compiler": "^2.7.14"
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aikis07/repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aikis07/repository/issues"
+  },
+  "homepage": "https://github.com/Aikis07/repository#readme"
 }
